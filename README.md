@@ -10,6 +10,7 @@ Deep Learning models used are:-
 - LSTM
 - mini batch LSTM
 - CNN+LSTM
+- Bidirectional LSTM
 
 Preprocessing is performed on text and they are stored as documents in model.bin file.
 Text normalization is performed after text tokenization
